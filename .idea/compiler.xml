@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server" />
+        <module name="eureka-server-8880" />
+        <module name="world-consumer" />
+        <module name="world-consumer-8680" />
+        <module name="world-consumer-feign" />
+        <module name="world-hystrixdashboard" />
+        <module name="world-provide" />
+        <module name="world-provide-8780" />
+        <module name="world-turbine-client" />
+        <module name="world-turbine-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-8880" target="1.8" />
+      <module name="springcloud-demo" target="1.8" />
+      <module name="world-consumer" target="1.8" />
+      <module name="world-consumer-8680" target="1.8" />
+      <module name="world-consumer-feign" target="1.8" />
+      <module name="world-consumer-hystrix-rabbitmq" target="1.8" />
+      <module name="world-hystrixdashboard" target="1.8" />
+      <module name="world-hystrixdashboard-rabbitmq" target="1.8" />
+      <module name="world-provide" target="1.8" />
+      <module name="world-provide-8780" target="1.8" />
+      <module name="world-turbine" target="1.8" />
+      <module name="world-turbine-client" target="1.8" />
+      <module name="world-turbine-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

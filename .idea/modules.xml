@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-demo.iml" filepath="$PROJECT_DIR$/springcloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/world-consumer/world-consumer.iml" filepath="$PROJECT_DIR$/world-consumer/world-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/world-consumer-feign/world-consumer-feign.iml" filepath="$PROJECT_DIR$/world-consumer-feign/world-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/world-hystrixdashboard/world-hystrixdashboard.iml" filepath="$PROJECT_DIR$/world-hystrixdashboard/world-hystrixdashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/world-provide/world-provide.iml" filepath="$PROJECT_DIR$/world-provide/world-provide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/world-turbine-client/world-turbine-client.iml" filepath="$PROJECT_DIR$/world-turbine-client/world-turbine-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/world-turbine-server/world-turbine-server.iml" filepath="$PROJECT_DIR$/world-turbine-server/world-turbine-server.iml" />
+    </modules>
+  </component>
+</project>
