@@ -3,11 +3,12 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/world-config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/world-config-local-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/world-config-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/world-consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/world-consumer-feign" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/world-consumer-hystrix-rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/world-hystrixdashboard" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/world-hystrixdashboard-rabbitmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/world-provide" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/world-turbine-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/world-turbine-server" charset="UTF-8" />

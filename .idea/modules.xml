@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/springcloud-demo.iml" filepath="$PROJECT_DIR$/springcloud-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/world-config-local-server/world-config-local-server.iml" filepath="$PROJECT_DIR$/world-config-local-server/world-config-local-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/world-config-server/world-config-server.iml" filepath="$PROJECT_DIR$/world-config-server/world-config-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/world-consumer/world-consumer.iml" filepath="$PROJECT_DIR$/world-consumer/world-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/world-consumer-feign/world-consumer-feign.iml" filepath="$PROJECT_DIR$/world-consumer-feign/world-consumer-feign.iml" />
       <module fileurl="file://$PROJECT_DIR$/world-hystrixdashboard/world-hystrixdashboard.iml" filepath="$PROJECT_DIR$/world-hystrixdashboard/world-hystrixdashboard.iml" />

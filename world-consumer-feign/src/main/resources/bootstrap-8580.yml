@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: world-consumer-feign # 对应config-server获取的配置文件的{application}
+  cloud:
+    config:
+      #uri: http://localhost:9980 # 对应config-server地址，默认值http://localhost:8888
+      discovery:
+        enabled: true
+        service-id: WORLD-CONFIG-SERVER
+      profile: 8580  # 对应config-server获取的配置文件的{profile}
+      label: world # 对应config-server获取的配置文件的{label}，即Git仓库分支
+    retry:
+      initial-interval: 1100        #首次重试间隔时间，默认1000毫秒
+      multiplier: 1.1D              #下一次重试间隔时间的乘数，比如开始1000，下一次就是1000*1.1=1100
+      max-interval: 2000            #最大重试时间，默认2000
+      max-attempts: 3               #最大重试次数，默认6次
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8880/eureka,http://dmx:8881/eureka

@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/eurake-server/pom.xml" />
+        <option value="$PROJECT_DIR$/world-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/world-consumer-hystrix-rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/world-hystrixdashboard-rabbitmq/pom.xml" />
         <option value="$PROJECT_DIR$/world-turbine/pom.xml" />

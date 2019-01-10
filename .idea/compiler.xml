@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
         <module name="eureka-server-8880" />
+        <module name="world-config-local-server" />
+        <module name="world-config-server" />
         <module name="world-consumer" />
         <module name="world-consumer-8680" />
         <module name="world-consumer-feign" />
@@ -22,6 +24,9 @@
       <module name="eureka-server" target="1.8" />
       <module name="eureka-server-8880" target="1.8" />
       <module name="springcloud-demo" target="1.8" />
+      <module name="world-config-client" target="1.8" />
+      <module name="world-config-local-server" target="1.8" />
+      <module name="world-config-server" target="1.8" />
       <module name="world-consumer" target="1.8" />
       <module name="world-consumer-8680" target="1.8" />
       <module name="world-consumer-feign" target="1.8" />
